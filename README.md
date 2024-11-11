@@ -1,12 +1,14 @@
 # URL-Phishing-Dataset
 
-# URLs Phishing Dataset
-
-This repository contains a dataset for enhancing phishing detection using AI. The dataset is organized in the `urls dataset` folder.
+This repository contains a dataset for enhancing URLs phishing detection using ML. The dataset is organized in the `urls_dataset` folder.
 
 ## URLs Phishing Dataset
 
-The dataset can be found in the `dataset` folder. It includes various files necessary for phishing detection analysis.
+The dataset can be found in the `dataset` folder. It includes various files necessary for phishing detection features.
+
+## Call to Action
+
+The dataset comprised 40,000 URLs, evenly divided into 20,000 phishing and 20,000 legitimate links, providing a diverse and balanced foundation for training and testing the machine learning model. This extensive collection allowed for effective feature extraction and analysis, crucial for improving phishing detection accuracy.
 
 ## Citation
 
