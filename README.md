@@ -3,6 +3,7 @@
  Got it! If you use this dataset in your research, please cite the following paper:
 
 Chataut R, Usman Y, Chowdhury Mohammad A, Gyawali S, Gyawali PK. Enhancing Phishing Detection with AI: A Novel Dataset and Comprehensive Analysis using Machine Learning and Large Language Models. 2024 IEEE 15th Annual Ubiquitous Computing, Electronics and Mobile Communication Conference (IEEE UEMCON 2024).
+
 R. Chataut, P. K. Gyawali, and Y. Usman, "Can AI Keep You Safe? A Study of Large Language Models for Phishing Detection," in Proc. 14th Annual Computing and Communication Conference (IEEE CCWC 2024), pp. 1-10, 2024. [Online]. Available: https://ieeexplore.ieee.org/document/10427626
 
 R. C. Yusuf Usman, P. K. Gyawali, and S. Gyawali, "The Dark Side of AI: Large Language Models as Tools for Cyber Attacks on Vehicle Systems," in Proc. 15th Annual Ubiquitous Computing, Electronics & Mobile Communications Conference (IEEE UEMCON 2024), pp. 1-10, 2024.
